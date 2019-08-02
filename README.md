@@ -1,5 +1,7 @@
 # BMI Calculator
 
+Build in progress ...
+
 ## Info
 
 This Body Mass Index Calculator app inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). 
